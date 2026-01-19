@@ -5,7 +5,7 @@
 (this file) appears on your GitHub profile.
 -->
 
-Hello! My name is **Hazidien Ramadhan Utomo**.  
+Hello world! My name is **Hazidien Ramadhan Utomo**.  
 I'm an **Urban and Regional Planning student at Institut Teknologi Sepuluh Nopember (ITS)** with strong expertise in **spatial analysis, remote sensing, and urban modeling**.  
 Experienced in using **ArcGIS, Google Earth Engine (GEE), and GeoSOS-FLUS** to support **land use planning and urban renewable energy analysis**.
 
